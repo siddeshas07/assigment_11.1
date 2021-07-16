@@ -1,0 +1,14 @@
+package learning123basic;
+
+public class demobasic {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.setProperty(“webdriver.chrome.driver”, “C:\Users\ASSiddesh\Downloads\chromedriver_win32(1)\chromedriver.exe”);
+		WebDriver driver = new Chromedriver();
+		driver.get(https://www.selenium.dev/downloads/);
+
+	}
+
+}
